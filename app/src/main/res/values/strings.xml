@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="titre">Currency Converter</string>
+    <string name="convertir">Convertir</string>
+    <string name="montant_initial">0</string>
+    <string name="resultat_initial">0.00</string>
+    <string name="montant_vide">Veuillez saisir un montant</string>
+    <string name="devises_description">Devise</string>
+
+    <string-array name="devises">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>TND</item>
+        <item>GBP</item>
+        <item>JPY</item>
+        <item>CAD</item>
+    </string-array>
+</resources>
